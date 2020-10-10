@@ -1,0 +1,7 @@
+{
+  "name": "sim-racers-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
